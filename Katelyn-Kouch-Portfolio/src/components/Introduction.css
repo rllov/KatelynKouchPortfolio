@@ -3,70 +3,70 @@
   padding: 0;
 }
 
-.main--container {
+.intro--container {
   font-family: Poppins;
 }
 
-.main--intro-desc {
+.intro--intro-desc {
   width: Fill (34rem);
   height: Hug (11.63rem);
   padding: 9em 15em 10.88em 15em;
 }
 
-.main--intro-desc > p {
+.intro--intro-desc > p {
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 2.25rem;
   letter-spacing: 0.02em;
   text-align: left;
 }
-.main--intro-desc > h3 {
+.intro--intro-desc > h3 {
   font-size: 3em;
   font-weight: 400;
   letter-spacing: 0.02em;
 }
-.main--stars > h6 {
+.intro--stars > h6 {
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 36px;
   letter-spacing: 0.02em;
   text-align: left;
-  position: fixed;
+  position: absolute;
 }
-.main--stars .main--star-1 {
+.intro--stars .intro--star-1 {
   top: 168px;
   left: 984px;
 }
-.main--stars .main--star-2 {
+.intro--stars .intro--star-2 {
   top: 84px;
   left: 588px;
 }
-.main--stars .main--star-3 {
+.intro--stars .intro--star-3 {
   top: 142px;
   left: 1463px;
 }
-.main--stars .main--star-4 {
+.intro--stars .intro--star-4 {
   top: 300px;
   left: 108px;
 }
-.main--stars .main--star-5 {
+.intro--stars .intro--star-5 {
   top: 556px;
   left: 48px;
 }
-.main--stars .main--star-6 {
+.intro--stars .intro--star-6 {
   top: 540px;
   left: 519px;
 }
-.main--stars .main--star-7 {
+.intro--stars .intro--star-7 {
   top: 564px;
   left: 924px;
 }
-.main--stars .main--star-8 {
+.intro--stars .intro--star-8 {
   top: 490px;
   left: 1431px;
 }
 
-.main--project-title {
+.intro--project-title {
   font-size: 24px;
   line-height: 36px;
   letter-spacing: 0.02em;
